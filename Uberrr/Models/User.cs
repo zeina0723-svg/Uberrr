@@ -9,7 +9,7 @@ namespace Uberrr.Models
         [Required]
         [StringLength(100,MinimumLength =3)]
         public string FullName { get; set; }
-
+//zeina
         public string Passwod {  get; set; }
         public string Phone { get; set; }
         public string Role {  get; set; }
