@@ -1,0 +1,6 @@
+@Uberrr_HostAddress = http://localhost:5124
+
+GET {{Uberrr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
